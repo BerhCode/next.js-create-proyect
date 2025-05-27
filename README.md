@@ -1,3 +1,6 @@
+## pront:
+antes de continuar con los proximos pasos, quiero los paso para poder crear un nuevo proyecto en local, luego de crear el proyecto en local copiare los archivos
+
 ## Pasos para Crear el Proyecto Local
 
 ### 1. **Crear el Proyecto Next.js**
