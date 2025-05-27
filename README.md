@@ -19,6 +19,9 @@ cd newclosbell
 # Instalar shadcn/ui
 npx shadcn@latest init
 
+# or update
+npm update shadcn-ui
+
 # Cuando te pregunte por la configuración, usa estos valores:
 # ✔ Would you like to use TypeScript (recommended)? … yes
 # ✔ Which style would you like to use? › Default
