@@ -39,6 +39,9 @@ npx shadcn@latest add dropdown-menu
 npx shadcn@latest add avatar
 npx shadcn@latest add alert
 
+# or powershell
+mkdir modules/auth/components, modules/auth/types, modules/landing/components, modules/user-choice/components, modules/business/components, modules/business/types, modules/clients/components, modules/clients/types
+
 # Instalar iconos de Lucide React
 npm install lucide-react
 
