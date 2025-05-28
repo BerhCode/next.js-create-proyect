@@ -184,8 +184,8 @@ npm run dev
 
 ```shellscript
 # 1. Crear proyecto
-npx create-next-app@latest newclosbell --typescript --tailwind --eslint --app --src-dir=false --import-alias="@/*"
-cd newclosbell
+npx create-next-app@latest bizlumea --typescript --tailwind --eslint --app --src-dir=false --import-alias="@/*"
+cd bizlumea
 
 # 2. Configurar shadcn/ui
 npx shadcn@latest init
@@ -193,6 +193,9 @@ npx shadcn@latest init
 # 3. Instalar componentes
 npx shadcn@latest add button card input label dialog dropdown-menu avatar alert
 npm install lucide-react next-themes
+
+# 3 - add
+npm install react@latest vaul@latest react-day-picker@latest date-fns@latest
 
 # 4. Crear estructura
 mkdir -p modules/{auth,landing,user-choice,business,clients}/{components,types}
